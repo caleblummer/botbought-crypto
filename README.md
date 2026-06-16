@@ -2,6 +2,8 @@
 
 An intraday crypto trading bot that combines rule-based technical analysis with Claude AI signals to scan a watchlist every few minutes (24/7), size positions with layered risk controls, and persist everything to SQLite for a live Streamlit dashboard.
 
+See [docs/PLAN.md](docs/PLAN.md) for the full build plan, architecture, and phased rollout (currently in **Phase 9 — paper validation**).
+
 > **Experimental software.** Automated trading carries significant financial risk. Start with exchange testnet (`EXCHANGE_SANDBOX=true`) and paper mode (`TRADING_MODE=paper`).
 
 ## How it works
