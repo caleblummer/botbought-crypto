@@ -1,0 +1,14 @@
+ccxt
+anthropic
+pandas
+ta
+backtesting
+streamlit
+plotly
+pytest
+pytest-mock
+apscheduler
+python-dotenv
+sqlalchemy
+loguru
+requests
